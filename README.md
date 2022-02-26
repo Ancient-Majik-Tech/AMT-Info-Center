@@ -1,7 +1,6 @@
 [Page Current]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center
 
 [Sec Welcome]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#welcome
-[Sec Version]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#veersion
 [Sec Features]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#features
 
 [Page CompanyHome]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Company/AMT%20Home.md
@@ -17,7 +16,6 @@ Welcome Everyone to the Ancient Majik Technologies' Infomation Center. Here you 
 
 ## Guide
 - [Welcome][Sec Welcome]
-- [Version][Sec Version]
 	- [Features][Sec Features]
 
 
