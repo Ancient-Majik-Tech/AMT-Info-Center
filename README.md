@@ -1,15 +1,15 @@
-[Page Current]:link
+[Page Current]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center
 
-[Sec Welcome]:link
-[Sec Version]:link
-[Sec Features]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#welcome
+[Sec Version]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#veersion
+[Sec Features]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#features
 
 [Page CompanyHome]:link
 [Page CenterProj]:link
 
-[Page Tutorials]:link
-[Page ProjectsHome]:link
-[Page DesignLayouts]:link
+[Page Tutorials]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Tutorials/Tutorials%20Home.md
+[Page ProjectsHome]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Projects%20Home.md
+[Page Design]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Design/Design%20Layouts%20Home.md
 
 # AMT Info Center: Home
 
@@ -32,8 +32,8 @@ Some of the main features provided:
 
 |Feature|Desc|
 |:---|:---|
-|Tutorials|This feature is used to allow users to understand how to use our works|
-|Design Layouts|This feature is used to allow users to understand how our works are put together|
-|Project Catalog|This feature is used to allow users to keep up with thier favorite projects|
+|[Tutorials][Page Tutorials]|This feature is used to allow users to understand how to use our works|
+|[Design Layouts][Page Design]|This feature is used to allow users to understand how our works are put together|
+|[Project Catalog][Page ProjectsHome]|This feature is used to allow users to keep up with thier favorite projects|
 
 For more infomation on the info center please check [Info Center Project][Page CenterProj] page.
