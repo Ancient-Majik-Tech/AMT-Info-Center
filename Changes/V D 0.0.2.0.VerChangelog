@@ -8,6 +8,10 @@
 		{
 			"Type":"Update",
 			"Desc":"Updated with home pages"
+		},
+		{
+			"Type":"Update",
+			"Desc":"Basic System's outlined"
 		}
 	]
 }
