@@ -16,6 +16,14 @@
 		{
 			"Type": "Document",
 			"Desc": "Text"
+		},
+		{
+			"Type": "Document",
+			"Desc": "Systems"
+		},
+		{
+			"Type": "Document",
+			"Desc": "Info Center"
 		}
 	]
 }

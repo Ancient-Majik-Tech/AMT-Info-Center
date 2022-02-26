@@ -1,13 +1,13 @@
-[Page Current]:link
+[Page Current]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Common/RC%20Systems.md
 
-[Sec Welcome]:link
-[Sec Releases]:link
-[Sec SysOverview]:link
-[Sec Tutorials]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Common/RC%20Systems.md#welcome
+[Sec Releases]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Common/RC%20Systems.md#releases
+[Sec SysOverview]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Common/RC%20Systems.md#systems-overview
+[Sec Tutorials]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Common/RC%20Systems.md#tutorials
 
-# Realms Common: Basics
+# Realms Common: Systems
 
-Welcome to the project page of Realms Common Basics, here you will be able to discover more around the project.
+Welcome to the project page of Realms Common Systems, here you will be able to discover more around the project.
 
 ## Guide
 
@@ -17,6 +17,8 @@ Welcome to the project page of Realms Common Basics, here you will be able to di
 	- [Tutorials][Sec Tutorials]
 
 ### Welcome
+
+Realms Common Systems is a Realms Common Library which provides many features aimed at making tools and apps memory efficient while providing the basis for our Logical Systems design.
 
 ### Releases
 
@@ -45,6 +47,11 @@ The following gives a general description and number of features for each system
 
 |System Name|Num of Features|Desc|
 |:---|:---|:---|
+|Realms Logic Systems Basics|8|This system provides the basics for designing systems to be used by our tools|
+|Realms Memory Management|4|This system provides the basic outlines for working with disposable data|
+|Realms Tool Basics|9|This system provides the basics for building Realms Tools|
+|System Objects|6|This system provides the basics for developing objects for Realms|
+|Systems Collections|4|This system provides the basics for management of registerable systems|
 
 ### Tutorials
 
