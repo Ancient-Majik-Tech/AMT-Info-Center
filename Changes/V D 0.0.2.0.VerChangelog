@@ -4,6 +4,10 @@
 		{
 			"Type": "Update",
 			"Desc": "Home Readme page with basic layout"
+		},
+		{
+			"Type":"Update",
+			"Desc":"Updated with home pages"
 		}
 	]
 }
