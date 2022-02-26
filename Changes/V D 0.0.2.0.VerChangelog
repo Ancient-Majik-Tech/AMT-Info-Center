@@ -12,6 +12,10 @@
 		{
 			"Type":"Update",
 			"Desc":"Basic System's outlined"
+		},
+		{
+			"Type":"Update",
+			"Desc":"Added more home pages"
 		}
 	]
 }
