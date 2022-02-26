@@ -4,8 +4,8 @@
 [Sec Version]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#veersion
 [Sec Features]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center#features
 
-[Page CompanyHome]:link
-[Page CenterProj]:link
+[Page CompanyHome]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Company/AMT%20Home.md
+[Page CenterProj]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Social/Info%20Center/AMT%20Info%20Center.md
 
 [Page Tutorials]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Tutorials/Tutorials%20Home.md
 [Page ProjectsHome]:https://github.com/Ancient-Majik-Tech/AMT-Info-Center/blob/main/Projects/Projects%20Home.md

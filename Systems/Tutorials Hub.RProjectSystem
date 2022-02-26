@@ -1,0 +1,17 @@
+{
+	"ID":"InfoCenter.",
+	"ProjectID":"AMT.Social.InfoCenter",
+	"Name":"",
+	"Desc":"",
+	"Features": [
+		{
+			"ID":"",
+			"SystemID":"",
+			"ProjectID":"",
+			"Name":"",
+			"Desc":"",
+			"Version": "1.0"
+		}
+	],
+	"Version":"1.0.0"
+}

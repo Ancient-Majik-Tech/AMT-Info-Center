@@ -1,7 +1,7 @@
 {
 	"Name" : "AMT Information Center",
 	"ID" : "AMT.Social.InfoCenter",
-	"ProjectVersion" : "V D 0.0.2.0",
+	"ProjectVersion" : "V D 0.0.3.0",
 	"Types" : [ "Markdown Collection" ], 
 	"ParentProjects": [ "AMT" ],
 	"Desc": "This project is used to provide us a place to store tutorials and other information for the public to allow users to understand our works better",
