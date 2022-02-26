@@ -1,0 +1,9 @@
+{
+	"Version": "V D 0.0.2.0",
+	"Changes": [
+		{
+			"Type": "Update",
+			"Desc": "Home Readme page with basic layout"
+		}
+	]
+}
