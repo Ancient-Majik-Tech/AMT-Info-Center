@@ -8,6 +8,14 @@
 		{
 			"Type": "Document",
 			"Desc": "CSharp Coding"
+		},
+		{
+			"Type":"Fix",
+			"Desc":"Bad link in Project catalogue"
+		},
+		{
+			"Type": "Document",
+			"Desc": "Text"
 		}
 	]
 }
