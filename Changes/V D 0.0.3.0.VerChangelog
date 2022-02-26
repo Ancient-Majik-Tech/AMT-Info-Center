@@ -5,6 +5,11 @@
 			"Type": "Document",
 			"Subtype":"System",
 			"Desc": "Tutorials"
+		},
+		{
+			"Type":"Document",
+			"Subtype":"Page",
+			"Desc":"Projects Catalogue"
 		}
 	]
 }
