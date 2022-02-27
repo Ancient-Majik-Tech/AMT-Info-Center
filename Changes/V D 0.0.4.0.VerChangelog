@@ -24,6 +24,10 @@
 		{
 			"Type": "Document",
 			"Desc": "Info Center"
+		},
+		{
+			"Type": "Document",
+			"Desc": "Company"
 		}
 	]
 }
