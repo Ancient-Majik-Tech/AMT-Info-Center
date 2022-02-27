@@ -25,6 +25,7 @@ Welcome to the Home page for Ancient Majik Technologies(AMT). Here you will lear
 - [About us][Sec About]
 - [Teams][Page TeamsHome]
 
+
 ## **About us**
 
 We are Ancient Majik Technologies a Research and Development company devoted to

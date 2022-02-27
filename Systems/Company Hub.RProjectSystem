@@ -1,0 +1,41 @@
+{
+	"ID":"InfoCenter.CompanyHub",
+	"ProjectID":"AMT.Social.InfoCenter",
+	"Name":"AMT Company Hub",
+	"Desc":"This system is used to allow users to know infomation about Realms and AMT",
+	"Features": [
+		{
+			"ID":"CompanyHub.Teams",
+			"SystemID":"InfoCenter.CompanyHub",
+			"ProjectID":"AMT.Social.InfoCenter",
+			"Name":"",
+			"Desc":"",
+			"Version": "1.0"
+		},
+		{
+			"ID":"CompanyHub.Teams",
+			"SystemID":"InfoCenter.CompanyHub",
+			"ProjectID":"AMT.Social.InfoCenter",
+			"Name":"",
+			"Desc":"",
+			"Version": "1.0"
+		},
+		{
+			"ID":"CompanyHub.Home",
+			"SystemID":"InfoCenter.CompanyHub",
+			"ProjectID":"AMT.Social.InfoCenter",
+			"Name":"",
+			"Desc":"",
+			"Version": "1.0"
+		},
+		{
+			"ID":"CompanyHub.Staff",
+			"SystemID":"InfoCenter.CompanyHub",
+			"ProjectID":"AMT.Social.InfoCenter",
+			"Name":"",
+			"Desc":"",
+			"Version": "1.0"
+		}
+	],
+	"Version":"1.0.0"
+}
