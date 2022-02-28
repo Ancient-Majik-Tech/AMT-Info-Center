@@ -80,7 +80,7 @@ This team is used to plan and develop projects for both current and future plans
 
 - ID: Realms.Teams.Projects
 - Positions
-	- Realms Project Designer
+	- Realms Project Design Specialist
 		- ID: Design
 		- Users:
 			- [FueledByOCHD][Staff Fueled]
@@ -126,7 +126,7 @@ This team is incharge of building projects in preperation for releases.
 
 - ID: Realms.Teams.Builds
 - Positions:
-	- CSharp Project Builders
+	- CSharp Project Build Specialist
 		- ID: CS
 		- Users:
 			- [FueledByOCHD][Staff Fueled]
@@ -137,15 +137,15 @@ This team is incharge of packaging, uploading and updating Info Center for relea
 
 - ID: Realms.Teams.Releases
 - Positions:
-	- Beta Releasers
+	- Realms Beta Release Specialist
 		- ID: Beta
 		- Users:
 			- [FueledByOCHD][Staff Fueled]
-	- Public Releasers
+	- Realms Public Release Specialist
 		- ID: Public
 		- Users:
 			- [FueledByOCHD][Staff Fueled]
-
+	
 ### Realms Templates Team
 
 This team is incharge of making templates to further speed up the process of developing Realms.
@@ -158,6 +158,10 @@ This team is incharge of making templates to further speed up the process of dev
 			- [FueledByOCHD][Staff Fueled]
 	- Realms Markdown Template Specialists
 		- ID: Markdown
+		- Users:
+			- [FueledByOCHD][Staff Fueled]
+	- AMT Templates Archive Specialist
+		- ID: Archive
 		- Users:
 			- [FueledByOCHD][Staff Fueled]
 
@@ -192,5 +196,9 @@ This team is incharge of reviewing and editing and handling of all social projec
 			- [FueledByOCHD][Staff Fueled]
 	- Realms Discord Bot Specialist
 		- ID: ServerBot
+		- Users:
+			- [FueledByOCHD][Staff Fueled]
+	- Realms Announcements Specialist
+		- ID: Announce
 		- Users:
 			- [FueledByOCHD][Staff Fueled]
