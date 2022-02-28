@@ -8,15 +8,15 @@
 			"ID":"CompanyHub.Teams",
 			"SystemID":"InfoCenter.CompanyHub",
 			"ProjectID":"AMT.Social.InfoCenter",
-			"Name":"",
-			"Desc":"",
+			"Name":"Company Teams Hub",
+			"Desc":"This feature is used to provide basic infomation on our teams",
 			"Version": "1.0"
 		},
 		{
-			"ID":"CompanyHub.Teams",
+			"ID":"CompanyHub.Tuts",
 			"SystemID":"InfoCenter.CompanyHub",
 			"ProjectID":"AMT.Social.InfoCenter",
-			"Name":"",
+			"Name":"Company Basic Tutorials",
 			"Desc":"",
 			"Version": "1.0"
 		},
@@ -24,16 +24,16 @@
 			"ID":"CompanyHub.Home",
 			"SystemID":"InfoCenter.CompanyHub",
 			"ProjectID":"AMT.Social.InfoCenter",
-			"Name":"",
-			"Desc":"",
+			"Name":"Company Home",
+			"Desc":"This feature provides the basic home page with easy to use design",
 			"Version": "1.0"
 		},
 		{
 			"ID":"CompanyHub.Staff",
 			"SystemID":"InfoCenter.CompanyHub",
 			"ProjectID":"AMT.Social.InfoCenter",
-			"Name":"",
-			"Desc":"",
+			"Name":"Realms Staff Pages",
+			"Desc":"This feature allows users to connect with thier favorite users",
 			"Version": "1.0"
 		}
 	],

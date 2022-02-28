@@ -41,9 +41,10 @@ The following gives a general description and number of features for each system
 
 |System Name|Num of Features|Desc|
 |:---|:---|:---|
-|Design Layouts Link|0|This system provides users with a public viewable set of our patterns|
-|Projects Catalogue|0|This system provides users with a basic catalogue of our projects that have reached a public release stage|
-|Tutorials Hub|0|This system provides users with guides which allow them to understand how to use our works in thier own development, from our own minds|
+|Design Layouts Hub|2|This system provides users with a public viewable set of our patterns|
+|Projects Catalogue|5|This system provides users with a basic catalogue of our projects that have reached a public release stage|
+|Tutorials Hub|2|This system provides users with guides which allow them to understand how to use our works in thier own development, from our own minds|
+|Company Hub|4|This system provides users to access to a deeper connection to the AMT|
 
 ### Tutorials
 

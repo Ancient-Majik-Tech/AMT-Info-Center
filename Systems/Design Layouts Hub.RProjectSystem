@@ -1,13 +1,21 @@
 {
-	"ID":"InfoCenter.",
+	"ID":"InfoCenter.DesignLayouts",
 	"ProjectID":"AMT.Social.InfoCenter",
-	"Name":"",
-	"Desc":"",
+	"Name":"Design Layouts Hub",
+	"Desc":"This system provides public access to the design layouts we use for development",
 	"Features": [
 		{
-			"ID":"",
-			"SystemID":"",
-			"ProjectID":"",
+			"ID":"DesignLayouts.Home",
+			"SystemID":"InfoCenter.DesignLayouts",
+			"ProjectID":"AMT.Social.InfoCenter",
+			"Name":"",
+			"Desc":"",
+			"Version": "1.0"
+		},
+		{
+			"ID":"DesignLayouts.Main",
+			"SystemID":"InfoCenter.DesignLayouts",
+			"ProjectID":"AMT.Social.InfoCenter",
 			"Name":"",
 			"Desc":"",
 			"Version": "1.0"
