@@ -9,6 +9,11 @@
 			"Type":"Update",
 			"Subtype":"Page",
 			"Desc":"Readme [Homepage]"
+		},
+		{
+			"Type":"New",
+			"Subtype":"System",
+			"Desc":"Projects Catalogue"
 		}
 	]
 }
