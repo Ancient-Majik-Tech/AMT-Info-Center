@@ -19,6 +19,11 @@
 			"Type":"New",
 			"Subtype":"System",
 			"Desc":"Design Layouts Catalogue"
-		}
+		},
+		{
+			"Type":"New",
+			"Subtype":"System",
+			"Desc":"Company Center"
+		},
 	]
 }
