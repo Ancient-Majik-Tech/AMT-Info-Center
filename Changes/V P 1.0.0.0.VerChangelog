@@ -25,5 +25,10 @@
 			"Subtype":"System",
 			"Desc":"Company Center"
 		},
+		{
+			"Type":"New",
+			"Subtype":"System",
+			"Desc":"Tutorials"
+		}
 	]
 }
