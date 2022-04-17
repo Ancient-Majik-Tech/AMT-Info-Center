@@ -14,6 +14,11 @@
 			"Type":"New",
 			"Subtype":"System",
 			"Desc":"Projects Catalogue"
+		},
+		{
+			"Type":"New",
+			"Subtype":"System",
+			"Desc":"Design Layouts Catalogue"
 		}
 	]
 }
