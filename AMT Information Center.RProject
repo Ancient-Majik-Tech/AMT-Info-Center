@@ -2,7 +2,7 @@
 	"Name" : "AMT Information Center",
 	"ID" : "AMT.Social.InfoCenter.Public",
 	"Owner":"",
-	"ProjectVersion" : "V P 1.0.0.0",
+	"ProjectVersion" : "V P 1.0.1.0",
 	"Types" : [ ], 
 	"ParentProjects": [ ],
 	"Desc": "This is our public Information center used to help provide a bridge between AMT Including Realms Products and our users to help reduce the learning gap",

@@ -1,0 +1,10 @@
+{
+	"Version": "V P 1.0.1.0",
+	"Changes": [
+		{
+			"Type": "Update",
+			"Subtype":"Project",
+			"Desc": "Moved out of parent project"
+		}
+	]
+}
